@@ -1,0 +1,7 @@
+RC15Launcher is concidered to be the updater
+i did some tiny edits like the robocraft.bat which can be made a shortcut of unlike the launcher
+Enjoy!
+
+credits to phoenix software
+
+https://phoenixsoftworks.net/guide.html
